@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Qehc.Knowledge.Api/Qehc.Knowledge.Api.csproj" />
+  <Project Path="Qehc.Knowledge.Indexer/Qehc.Knowledge.Indexer.csproj" />
+</Solution>
